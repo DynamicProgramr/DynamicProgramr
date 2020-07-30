@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![DynamicProgramr Header](github_dynamicprogramr_header_1000x300.png)
+
 ## the big picture.
 
 My formal education is in mechanical engineering. But, after a few years in the ‘real world’ I realized that what I wanted to do was in the IT (Information Technology) world. I began working as a computer tech, moved to systems administration and then on to programming.
@@ -30,6 +32,6 @@ Additionally, I might:
 - Whip up some Python code and dabble in some AI.
 - Get my hands ‘dirty’ building an IoT proof-of-concept device with an Arduino or Raspberry Pi board.
 - Fill my brain with the latest technologies with classes from Udemy, Udacity, or another online training site.
-- Spend some time working out or at the beach with a cold brew. :simple-smile:
+- Spend some time working out or at the beach with a cold brew. :simple_smile:
 
 I should also mention that I am a guru with WordPress. I have built my fair share of custom themes, plugins and widgets for WordPress.
