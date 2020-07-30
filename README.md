@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![DynamicProgramr Header](/github_dynamicprogramr_header_1000x300.png)
+![DynamicProgramr Header](https://github.com/DynamicProgramr/DynamicProgramr/github_dynamicprogramr_header_1000x300.png)
 
 ## the big picture.
 
